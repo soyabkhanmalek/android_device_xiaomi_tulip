@@ -31,12 +31,8 @@ DEVICE_PATH := device/xiaomi/tulip
 # Assert
 TARGET_OTA_ASSERT_DEVICE := tulip,twolip
 
-# Boot animation
-TARGET_SCREEN_HEIGHT := 2160
-TARGET_SCREEN_WIDTH := 1080
-
 # Display
-TARGET_SCREEN_DENSITY := 393
+TARGET_SCREEN_DENSITY := 392
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm660
